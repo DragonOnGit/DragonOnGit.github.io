@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragonongit.github.io/"/>
-  <updated>2016-07-10T08:41:32.620Z</updated>
+  <updated>2016-07-16T09:53:43.724Z</updated>
   <id>https://dragonongit.github.io/</id>
   
   <author>
@@ -16,11 +16,59 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>小白如何顶住压力接下如此大的项目</title>
+    <link href="https://dragonongit.github.io/2016/07/16/my-new-post-1/"/>
+    <id>https://dragonongit.github.io/2016/07/16/my-new-post-1/</id>
+    <published>2016-07-16T08:47:48.000Z</published>
+    <updated>2016-07-16T09:53:43.724Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;没错，又是这篇。这应该是我第三次吧这个东西贴出来，然而确实自己没什么特别的东西可以写，所以现在先用这一篇凑个数，后面慢慢来咯！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;小白如何顶住压力接下如此大的项目&quot;&gt;&lt;a href=&quot;#小白如何顶住压力接下如此大的项目&quot; class=&quot;headerlink&quot; title=&quot;小白如何顶住压力接下如此大的项目&quot;&gt;&lt;/a&gt;小白如何顶住压力接下如此大的项目&lt;/h1&gt;&lt;p&gt;昨晚拿到了项目的需求。跟另一个一起做的人商量了一下。据说就是做一个HIS，然后看了需求报告···也就是一个所谓的医院管理系统的东西（HIS）&lt;/p&gt;
+&lt;p&gt;看完瞬间就蒙B了···卧槽这么正式，这么大的一个项目。老子菜鸟一个，怎么办&lt;br&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E6%88%91%E5%BC%80%E5%A7%8B%E6%85%8C%E4%BA%86.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;仔细看了看···这尼玛···整个项目之庞大，真是前无古人后无来者，创天地之奇观，引日月之神明···额，反正在我看来是根本无法完成的。&lt;/p&gt;
+&lt;p&gt;于是我就悻悻的进了讨论组，一头雾水的开始跟人家商量着改需求，做分工···&lt;/p&gt;
+&lt;p&gt;这些完事之后终于对于这项目有了一点了解···感情就是挂号，然后医生填写病历，开药，药房通过医生给的药房配药收钱。完成！&lt;/p&gt;
+&lt;p&gt;这···这尼玛不就是数据库增删改查基本操作么···&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E5%93%A6.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;哦···&lt;/p&gt;
+&lt;p&gt;然后我就一推四六，数据库我不会啊···真不会啊···&lt;/p&gt;
+&lt;p&gt;人家说···那不会也没办法啊···那你就看看这个页面设计的不太难看就行。&lt;/p&gt;
+&lt;p&gt;于是我就看页面······看到美工给的效果图我。。。&lt;br&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E6%88%91%E4%B8%8D%E7%A6%81%E5%8F%91%E5%87%BA%E6%9D%A0%E9%93%83%E4%B8%80%E8%88%AC%E7%9A%84%E7%AC%91%E5%A3%B0.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;美工你过来我保证不打死你！（╯－＿－）╯╧╧&lt;/p&gt;
+&lt;p&gt;所有东西都塞在一个页面···塞在一个页面啊···一个页面啊···啊····&lt;/p&gt;
+&lt;p&gt;内心OS：如果美工是个妹纸，我就会苦口婆心的跟她说这个不行，这个太满了根本看不下去，于是妹纸两眼星星：你来教我吧~&lt;/p&gt;
+&lt;p&gt;于是一来二去就···&lt;/p&gt;
+&lt;p&gt;嘿嘿嘿···&lt;/p&gt;
+&lt;p&gt;但是！但是美工TM是个汉子···是个汉子···汉子···&lt;br&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E7%94%BB%E5%9C%88.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;算了，这些都不重要，最重要的还是报酬啊！！！&lt;br&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E6%B2%A1%E9%92%B1.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;价钱最终敲定在一个不上不下的价格···反正我是没感觉的。另一个表示勉强能接受。&lt;/p&gt;
+&lt;p&gt;这个时候，我们才知道&lt;/p&gt;
+&lt;p&gt;主顾···这家医院···&lt;/p&gt;
+&lt;p&gt;······&lt;/p&gt;
+&lt;p&gt;只有俩大夫···只有俩···&lt;/p&gt;
+&lt;p&gt;这系统的用户数量是5个···&lt;/p&gt;
+&lt;p&gt;俩大夫，一个药房，一个挂号，一个会计&lt;br&gt;&lt;img src=&quot;http://oaejm7w92.bkt.clouddn.com/%E5%96%B7.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;我尼玛，这么小的医院用个毛的高科技啊啊啊！&lt;/p&gt;
+&lt;p&gt;于是就差使那个产品经理去跟人家讨价还价去了&lt;/p&gt;
+&lt;p&gt;于是，就开始了我的菜鸟成长之路······&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;没错，又是这篇。这应该是我第三次吧这个东西贴出来，然而确实自己没什么特别的东西可以写，所以现在先用这一篇凑个数，后面慢慢来咯！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;小白如何顶住压力接下如此大的项目&quot;&gt;&lt;a href=&quot;#小白如何顶住
+    
+    </summary>
+    
+    
+      <category term="技术无关" scheme="https://dragonongit.github.io/tags/%E6%8A%80%E6%9C%AF%E6%97%A0%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hello world!</title>
     <link href="https://dragonongit.github.io/2016/07/10/my-new-post/"/>
     <id>https://dragonongit.github.io/2016/07/10/my-new-post/</id>
     <published>2016-07-10T08:19:12.000Z</published>
-    <updated>2016-07-10T08:41:32.620Z</updated>
+    <updated>2016-07-16T08:48:20.914Z</updated>
     
     <content type="html">&lt;p&gt;哈哈哈，我也有博客啦！！！！！！&lt;/p&gt;
 </content>
@@ -32,6 +80,8 @@
     
     </summary>
     
+    
+      <category term="hello world!" scheme="https://dragonongit.github.io/tags/hello-world/"/>
     
   </entry>
   
